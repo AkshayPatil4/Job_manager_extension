@@ -19,7 +19,7 @@ Enhance your LinkedIn job search! This Chrome extension streamlines the process 
    * Navigate to a LinkedIn job posting.
    * Click the extension icon in your browser toolbar.
    * The extension will automatically extract the job data and display it in a popup.
-   * You can then choose to copy the data or export it as a CSV file.
+   * You can then choose to copy the data or save it to the web app.
 
 ## 🛠️ Technical Details
 
